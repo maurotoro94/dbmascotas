@@ -3,22 +3,22 @@
     "id": 1,
     "categoryId": "category-dogs",
     "race": "Pastor Alemán",
-    "name": "Pascual",
-    "description": "Esta mal",
+    "name": "Coki",
+    "description": "Pequeño y entusiasta perro pastor alemán",
     "gender": "Female",
-    "age": "6 Meses",
-    "address": "Se encuentra en robledo cerca a la quintana",
+    "age": "7 Meses",
+    "address": "Calle 16 #123 Las Palmas",
     "feature": "Tiene el pelo cafe , ademas tiene una patica mala",
     "personality": [
       "Juguetón",
       "Tierno",
       "Cariñoso"
     ],
-    "image": "https://www.elpaisdelosjovenes.com/wp-content/uploads/2015/05/03_02.jpg",
+    "image": "https://www.hola.com/imagenes/estar-bien/20191004150785/pastor-aleman-raza-de-perro-caracteristicas/0-728-57/raza-de-perro-pastor-aleman-m.jpg",
     "author": {
       "id": 1,
-      "name": "Mailer Martínez",
-      "image": "author1.png"
+      "name": "Michel Os",
+      "image": "https://static.dw.com/image/54386370_303.jpg"
     }
   },
   {
