@@ -3,7 +3,7 @@
     "id": 1,
     "categoryId": "category-dogs",
     "race": "Pastor Alemán",
-    "name": "Coki",
+    "name": "Lola",
     "description": "Pequeño y entusiasta perro pastor alemán",
     "gender": "Female",
     "age": "7 Meses",
@@ -25,66 +25,66 @@
     "id": 2,
     "categoryId": "category-dogs",
     "race": "Bulldogs",
-    "name": "Sacha",
-    "description": "Tiene un ojo herido",
-    "gender": "Female",
+    "name": "Paco",
+    "description": "Le gusta pasear media hora al día",
+    "gender": "Male",
     "age": "12 Meses",
-    "address": "Esta en aranjuez por el parque",
-    "feature": "Es un perro criollo y tiene un ojo herido",
+    "address": "Cl. 67 ##53-108",
+    "feature": "Perro apto para dueños con experiencia",
     "personality": [
       "Juguetón",
       "Inquieto",
       "Tierno"
     ],
-    "image": "https://www.ecured.cu/images/2/24/Bulldog.JPG",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_824300-MCO40514028790_012020-O.jpg",
     "author": {
       "id": 2,
-      "name": "Juancito Perez",
-      "image": "author2.png"
+      "name": "Maria Suarez",
+      "image": "https://www.tennisworldes.com/imgb/44431/el-nuevo-negocio-de-maria-sharapova.jpg"
     }
   },
   {
     "id": 3,
     "categoryId": "category-dogs",
     "race": "Labrador Retriever",
-    "name": "scott",
-    "description": "Esta muy herido",
+    "name": "Sugar",
+    "description": "Esta muy saludable",
     "gender": "Male",
     "age": "24 Meses",
-    "address": "Esta en belen cerca a la udem",
-    "feature": "Es un labrador viejito cola cafe",
+    "address": "Cra. 87 #30-65",
+    "feature": "Labrador negro joven",
     "personality": [
       "Juguetón",
       "Inquieto",
       "Tierno"
     ],
-    "image": "http://www.perrosdebusqueda.es/wp-content/uploads/2015/11/Zarpas-herido.jpg",
+    "image": "https://static.vecteezy.com/system/resources/previews/001/224/089/non_2x/black-labrador-retriever-in-the-grass-free-photo.JPGg",
     "author": {
       "id": 3,
-      "name": "Lola Hernandez",
-      "image": "author3.png"
+      "name": "Lucia Hernandez",
+      "image": "https://www.mujerhoy.com/noticias/201902/15/media/cortadas/lady-gaga-ketD-U70660343518reG-644x483@MujerHoy.jpg"
     }
   },
   {
     "id": 4,
     "categoryId": "category-dogs",
     "race": "Poodle",
-    "name": "Toby",
+    "name": "Mora",
     "description": "Para adopcion",
-    "gender": "Male",
+    "gender": "Female",
     "age": "15 Meses",
-    "address": "Esta en belen cerca a la udem",
-    "feature": "Tiene el pelo cafe, ademas tiene una patica mala",
+    "address": "Cra 52 #20-63",
+    "feature": "Hermosa mascota se encuentra en hogar de paso esperando por una familia que desee tener su compañia.",
     "personality": [
       "Juguetón",
       "Inquieto",
       "Cariñoso"
     ],
-    "image": "https://perro.shop/wp-content/uploads/Caniche-Poodle.jpg",
+    "image": "https://soyunperro.com/wp-content/uploads/2020/09/perro-de-raza-maltipoo.jpg",
     "author": {
       "id": 1,
-      "name": "Mailer Martínez",
-      "image": "author1.png"
+      "name": "Cristian Ronal",
+      "image": "https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/Cristiano-Ronaldo-Launches-CR7-FW15-Collection-94dd375cf1ee7a6d2eb65884b8259f94.jpg"
     }
   },
   {
@@ -92,10 +92,10 @@
     "categoryId": "category-dogs",
     "race": "Chihuahua",
     "name": "Boxer",
-    "description": "Se ve que tiene dueño esta muy bien ",
+    "description": "Se ve que tiene dueño esta muy bien",
     "gender": "Male",
     "age": "18 Meses",
-    "address": "Lo vi el jardin botanico por el lago",
+    "address": "Cra. 66B #31a15",
     "feature": "Es cafe con blanco",
     "personality": [
       "Tierno",
@@ -104,8 +104,8 @@
     "image": "http://3.bp.blogspot.com/-XtqcDS3NACY/TyeEFEwPvKI/AAAAAAAAFA0/CPl8ilSKwCI/s200/Boxer+1.JPG",
     "author": {
       "id": 2,
-      "name": "Juancito Perez",
-      "image": "author2.png"
+      "name": "Juan Perez",
+      "image": "https://ichef.bbci.co.uk/news/640/cpsprodpb/29DF/production/_118291701_gettyimages-1211050457-594x594.jpg"
     }
   },
   {
@@ -113,11 +113,11 @@
     "categoryId": "category-dogs",
     "race": "Husky Siberiano",
     "name": "NN",
-    "description": "Lo dejaron en una caja , con dos piernas rotas",
+    "description": "Es una mascota adorable y tiene aproximadamente 2 años.",
     "gender": "Female",
     "age": "24 Meses",
-    "address": "Esta en la estacion del metro floresta",
-    "feature": "Tiene el pelo cafe con negro y ya esta algo viejito",
+    "address": "Cra. 66B #31a15",
+    "feature": "Tiene el pelo cafe con negro",
     "personality": [
       "Juguetón",
       "Tierno"
@@ -125,8 +125,8 @@
     "image": "https://t2.ea.ltmcdn.com/es/images/1/4/9/alimentacion_y_cuidados_del_husky_siberiano_cachorro_24941_600_square.jpg",
     "author": {
       "id": 3,
-      "name": "Lola Hernandez",
-      "image": "author3.png"
+      "name": "Sofia Hernandez",
+      "image": "https://www.mdzol.com/u/fotografias/m/2021/1/6/f608x342-1003070_1032793_15.jpg"
     }
   },
   {
@@ -137,7 +137,7 @@
     "description": "Parece que tiene dueño por que esta muy bien ",
     "gender": "Male",
     "age": "3 Meses",
-    "address": "lo vi por el exito de robledo",
+    "address": "Av. 80 ##64 - 61",
     "feature": "Es un perro criollo de color cafe de raza media",
     "personality": [
       "Juguetón",
@@ -147,8 +147,8 @@
     "image": "https://perro.shop/wp-content/uploads/greyhound-galgo-ingles.jpg",
     "author": {
       "id": 1,
-      "name": "Mailer Martínez",
-      "image": "author1.png"
+      "name": "Maria Suarez",
+      "image": "https://www.tennisworldes.com/imgb/44431/el-nuevo-negocio-de-maria-sharapova.jpg"
     }
   },
   {
@@ -159,7 +159,7 @@
     "description": "En adopcion",
     "gender": "Male",
     "age": "8 Meses",
-    "address": "Estoy en bello",
+    "address": "Dg. 55 ##34-67",
     "feature": "Perro pitbull",
     "personality": [
       "Juguetón",
@@ -169,8 +169,8 @@
     "image": "http://i58.photobucket.com/albums/g254/big-T1/pitbull_pup11.jpg",
     "author": {
       "id": 2,
-      "name": "Juancito Perez",
-      "image": "author2.png"
+      "name": "Lucia Hernandez",
+      "image": "https://www.mujerhoy.com/noticias/201902/15/media/cortadas/lady-gaga-ketD-U70660343518reG-644x483@MujerHoy.jpg"
     }
   },
   {
@@ -188,11 +188,11 @@
       "Inquieto",
       "Tierno"
     ],
-    "image": "http://static.consumer.es/www/imgs/2013/07/adoptar-gatos-cachorros-felinos-animales-mascotas-adopcion-acogida-art.jpg",
+    "image": "https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/591ec9b95bafe8a5c53c986a/gato-siames_0.jpg",
     "author": {
       "id": 3,
-      "name": "Lola Hernandez",
-      "image": "author3.png"
+      "name": "Pedro Perez",
+      "image": "https://img.a.transfermarkt.technology/portrait/big/28003-1604164452.png?lm=1"
     }
   },
   {
@@ -213,8 +213,8 @@
     "image": "https://www.dogalize.com/wp-content/uploads/2017/02/image1.jpg",
     "author": {
       "id": 1,
-      "name": "Mailer Martínez",
-      "image": "author1.png"
+      "name": "Michel Os",
+      "image": "https://static.dw.com/image/54386370_303.jpg"
     }
   },
   {
@@ -234,8 +234,8 @@
     "image": "http://misanimales.com/wp-content/uploads/2015/01/cascabel-gato.jpg",
     "author": {
       "id": 2,
-      "name": "Juancito Perez",
-      "image": "author2.png"
+      "name": "Cristian Ronal",
+      "image": "https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/Cristiano-Ronaldo-Launches-CR7-FW15-Collection-94dd375cf1ee7a6d2eb65884b8259f94.jpg"
     }
   },
   {
@@ -256,8 +256,8 @@
     "image": "http://mascotas-static.hola.com/gatos/files/2012/10/stray-cat-169113_1280.jpg",
     "author": {
       "id": 3,
-      "name": "Lola Hernandez",
-      "image": "author3.png"
+      "name": "Sofia Hernandez",
+      "image": "https://www.mdzol.com/u/fotografias/m/2021/1/6/f608x342-1003070_1032793_15.jpg"
     }
   },
   {
@@ -278,8 +278,8 @@
     "image": "https://t2.ea.ltmcdn.com/es/images/1/9/6/img_como_banar_a_un_gato_ragdoll_20691_600.jpg",
     "author": {
       "id": 1,
-      "name": "Mailer Martínez",
-      "image": "author1.png"
+      "name": "Pedro Perez",
+      "image": "https://img.a.transfermarkt.technology/portrait/big/28003-1604164452.png?lm=1"
     }
   },
   {
@@ -300,8 +300,8 @@
     "image": "https://i1.wp.com/clubdelgato.com/wp-content/uploads/2020/10/640px-Cat_Sphynx._Kittens._img_11.jpg?fit=640%2C447&ssl=1",
     "author": {
       "id": 1,
-      "name": "Mailer Martínez",
-      "image": "author1.png"
+      "name": "Juan Perez",
+      "image": "https://ichef.bbci.co.uk/news/640/cpsprodpb/29DF/production/_118291701_gettyimages-1211050457-594x594.jpg"
     }
   }
  ]
